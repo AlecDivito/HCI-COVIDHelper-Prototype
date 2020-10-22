@@ -13,7 +13,7 @@ out ways you can create real change in your community. Just because COVID-19
 is making this year worse doesn't mean you shouldn't try making it a little better
 for **your** community.
 
-## :partying: Features
+## :fire: Features
 
 - Login
 - Register
