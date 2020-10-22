@@ -34,7 +34,7 @@ for **your** community.
 
 ## :film_projector: Demo Video
 
-Watch the video [here](https://drive.google/video.mp4)
+Watch the video [here](https://drive.google.com/file/d/1BYEm3-6xoUA5CvusBwUzt2G0cXLwGHd8/view?usp=sharing)
 
 ## :bulb: Future Planning
 
@@ -55,3 +55,4 @@ more competitive.
 
 - [Github Repository](https://github.com/AlecDivito/School-HCI-Assignment)
 - [Figma Public Link](https://www.figma.com/file/kxxj9MPMZY5q2lOYhf8dct/HelpQuester?node-id=0%3A1)
+- [Video Demo](https://drive.google.com/file/d/1BYEm3-6xoUA5CvusBwUzt2G0cXLwGHd8/view?usp=sharing)
