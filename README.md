@@ -32,6 +32,10 @@ for **your** community.
 
 ![Design Mockup](./prototype.png)
 
+## :books: Navigation Prototype
+
+![Navigation Mockup](./navigation.png)
+
 ## :film_projector: Demo Video
 
 Watch the video [here](https://drive.google.com/file/d/1BYEm3-6xoUA5CvusBwUzt2G0cXLwGHd8/view?usp=sharing)
