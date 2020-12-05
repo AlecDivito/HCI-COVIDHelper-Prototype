@@ -28,6 +28,10 @@ for **your** community.
 - Alerts if someone you helped ended up getting COVID-19
 - Clean and modern user interface!
 
+## Initial Prototype
+
+![Init](./initial-prototype.png)
+
 ## :woman_artist: Prototype
 
 ![Design Mockup](./prototype.png)
