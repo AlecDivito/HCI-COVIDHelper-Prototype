@@ -40,6 +40,10 @@ for **your** community.
 
 ![Navigation Mockup](./navigation.png)
 
+## Final Prototype
+
+![Final Prototype](./FinalPrototype.png)
+
 ## :film_projector: Demo Video
 
 Watch the video [here](https://drive.google.com/file/d/1BYEm3-6xoUA5CvusBwUzt2G0cXLwGHd8/view?usp=sharing)
