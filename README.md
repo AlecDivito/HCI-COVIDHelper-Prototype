@@ -4,6 +4,12 @@ Documentation and prototype for COVID Helper. The first COVID application focuse
 on connecting generations safely. Learn about how to protect yourself and get
 help from the community around you.
 
+## Application Versions
+
+1. [Version 1](https://www.figma.com/file/u2Jh1NDs3MTxBPxBwSdhin/HelpQuester-1?node-id=0%3A1)
+2. [Version 2](https://www.figma.com/file/kxxj9MPMZY5q2lOYhf8dct/CovidHelper)
+3. [Version 2 + Navigation](https://www.figma.com/file/NdAmVcBYr3bmu88qVqwCe9/CovidHelper-Testing)
+
 ## :thinking: About
 
 For users that are feeling a bit alone because of COVID-19 or just want to help
